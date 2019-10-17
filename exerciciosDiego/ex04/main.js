@@ -1,7 +1,7 @@
-function adicao()
+function multiplicacao()
 {
     a = 25;
     b = 27;
-    soma = a + b;
-    alert(soma);
+    mult = a * b;
+    alert(mult);
 }
